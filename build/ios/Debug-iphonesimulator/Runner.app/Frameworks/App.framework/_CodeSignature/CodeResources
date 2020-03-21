@@ -10,7 +10,7 @@
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		WwW3RPqbM3HoZxBmtgAVOxTtka4=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -19,6 +19,46 @@
 		<key>flutter_assets/LICENSE</key>
 		<data>
 		mAqGAYWzNbihhWoJTUezNTSS6Fw=
+		</data>
+		<key>flutter_assets/assets/images/CHINA_flag.png</key>
+		<data>
+		x7jio6GzTIQwzi4ZblgXVMzbrwM=
+		</data>
+		<key>flutter_assets/assets/images/INDIA_flag.png</key>
+		<data>
+		FAT4gY4Jiy/JIkTPortBqmB72P8=
+		</data>
+		<key>flutter_assets/assets/images/INDONESIA_flag.png</key>
+		<data>
+		Yv3+UPjZoXrKpofGdLatx+1lecM=
+		</data>
+		<key>flutter_assets/assets/images/JAPAN_flag.png</key>
+		<data>
+		OcrSj6WkOaEYcHWz9mQ6PoUyvas=
+		</data>
+		<key>flutter_assets/assets/images/KOREA_flag.png</key>
+		<data>
+		Av2ceUOjLp6aqDEOfYXPE/Hphz4=
+		</data>
+		<key>flutter_assets/assets/images/MALAYSIA_flag.png</key>
+		<data>
+		lkKC6iID6eNH0rLNkzYVPpxv9O0=
+		</data>
+		<key>flutter_assets/assets/images/THAILAND_flag.png</key>
+		<data>
+		lAD/AbZgCyPvko8jP2It2wz1Ysk=
+		</data>
+		<key>flutter_assets/assets/images/USA_flag.png</key>
+		<data>
+		ndaz4uzqDE4VnrDZhUVRBuRYr8c=
+		</data>
+		<key>flutter_assets/assets/images/VIETNAM_flag.png</key>
+		<data>
+		GbI+Dk1ztNOws2LN1DU4x8FAXis=
+		</data>
+		<key>flutter_assets/assets/images/loading.gif</key>
+		<data>
+		YCb/2aZUtyApmCWK1VtbdJd0kr4=
 		</data>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<data>
@@ -30,7 +70,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		kodHWHzKQSylc7N4IYKi11x9h/8=
+		mdQLQ9SeNCi+jvp3EPeyvoJPJxU=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -47,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			WwW3RPqbM3HoZxBmtgAVOxTtka4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			FPJd907/3TCsclFSngYVgYxzoZgYV7MZMU1m7zwaWic=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -74,6 +114,116 @@
 			<key>hash2</key>
 			<data>
 			NrJvdf6kuONjMDzNugmMfC8v161dMQqYE7lcesaPQ08=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/CHINA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x7jio6GzTIQwzi4ZblgXVMzbrwM=
+			</data>
+			<key>hash2</key>
+			<data>
+			pBVnxueEBsZsxIc8QZleXL2+a0BRAudY9VCyX8cs2+o=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/INDIA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FAT4gY4Jiy/JIkTPortBqmB72P8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kq7vw0q8g6GnpXe0sdiNIdseSqPhKyFxBcWM7MNlKz0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/INDONESIA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yv3+UPjZoXrKpofGdLatx+1lecM=
+			</data>
+			<key>hash2</key>
+			<data>
+			GTd8fDf/Ez/Df16oQAv1jwSRD3nyLY7g0qJxuH6GzPY=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/JAPAN_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OcrSj6WkOaEYcHWz9mQ6PoUyvas=
+			</data>
+			<key>hash2</key>
+			<data>
+			nz/RbM4NvkqEX7NM4UKPckS9cvvMoOr6tsQXhEnHwT4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/KOREA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Av2ceUOjLp6aqDEOfYXPE/Hphz4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ppnAOXhrAHlf5n2rdYs36UFrJ+80YKxmb1arspWxnz0=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/MALAYSIA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lkKC6iID6eNH0rLNkzYVPpxv9O0=
+			</data>
+			<key>hash2</key>
+			<data>
+			CtvzA49ObdwUNctPb8UuvsnPhg/o/JDR8+p/QgTNUeM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/THAILAND_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lAD/AbZgCyPvko8jP2It2wz1Ysk=
+			</data>
+			<key>hash2</key>
+			<data>
+			VzcFmVdGlwzzVWVCpPd9xna5kynKesHA4rgVcxaG2IM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/USA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ndaz4uzqDE4VnrDZhUVRBuRYr8c=
+			</data>
+			<key>hash2</key>
+			<data>
+			uR2u3o+CaNMwsTVLvuZy5xeqqInMEfR5HXkYHFJUDwc=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/VIETNAM_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GbI+Dk1ztNOws2LN1DU4x8FAXis=
+			</data>
+			<key>hash2</key>
+			<data>
+			hPAEGZnGw1zyBQbqIznp2Rzqwvr3cEEcyM3VGXkYneM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/loading.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YCb/2aZUtyApmCWK1VtbdJd0kr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			+Zab4fS+TzFcn+vshwyLIs3rCpYDZIS5KTAEqvvh5Lg=
 			</data>
 		</dict>
 		<key>flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
@@ -102,11 +252,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kodHWHzKQSylc7N4IYKi11x9h/8=
+			mdQLQ9SeNCi+jvp3EPeyvoJPJxU=
 			</data>
 			<key>hash2</key>
 			<data>
-			VuYeir8XUuCZCylyMb+O1aTbXMnFCRwUn/7HIMslqnQ=
+			95OKacl25uiUii/rrNMi85zsN7MiOYwqfRjkha3Wu2g=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>

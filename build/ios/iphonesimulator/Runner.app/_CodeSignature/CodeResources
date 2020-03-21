@@ -126,7 +126,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		HSH56IYdT9kqd23eN+xXgh6BhOY=
+		FL2NddmAVtnEcyTjmNfIL7RIrow=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -134,11 +134,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		6EliVuCEudUAVe3csuOw2Mu1cZs=
+		b2plVJWXk1F/LEs46oh4rByudfM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		WwW3RPqbM3HoZxBmtgAVOxTtka4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -147,6 +147,46 @@
 		<key>Frameworks/App.framework/flutter_assets/LICENSE</key>
 		<data>
 		mAqGAYWzNbihhWoJTUezNTSS6Fw=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/CHINA_flag.png</key>
+		<data>
+		x7jio6GzTIQwzi4ZblgXVMzbrwM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/INDIA_flag.png</key>
+		<data>
+		FAT4gY4Jiy/JIkTPortBqmB72P8=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/INDONESIA_flag.png</key>
+		<data>
+		Yv3+UPjZoXrKpofGdLatx+1lecM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/JAPAN_flag.png</key>
+		<data>
+		OcrSj6WkOaEYcHWz9mQ6PoUyvas=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/KOREA_flag.png</key>
+		<data>
+		Av2ceUOjLp6aqDEOfYXPE/Hphz4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/MALAYSIA_flag.png</key>
+		<data>
+		lkKC6iID6eNH0rLNkzYVPpxv9O0=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/THAILAND_flag.png</key>
+		<data>
+		lAD/AbZgCyPvko8jP2It2wz1Ysk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/USA_flag.png</key>
+		<data>
+		ndaz4uzqDE4VnrDZhUVRBuRYr8c=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/VIETNAM_flag.png</key>
+		<data>
+		GbI+Dk1ztNOws2LN1DU4x8FAXis=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/loading.gif</key>
+		<data>
+		YCb/2aZUtyApmCWK1VtbdJd0kr4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<data>
@@ -158,7 +198,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		kodHWHzKQSylc7N4IYKi11x9h/8=
+		mdQLQ9SeNCi+jvp3EPeyvoJPJxU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -222,7 +262,7 @@
 		</data>
 		<key>Frameworks/share.framework/share</key>
 		<data>
-		bAvpxuyzKQm9ASpbHzEQPbBSI+w=
+		EQ1FOdtw58t3VR4zmKMip8ZPikI=
 		</data>
 		<key>Frameworks/youtube_api.framework/Info.plist</key>
 		<data>
@@ -234,7 +274,7 @@
 		</data>
 		<key>Frameworks/youtube_api.framework/youtube_api</key>
 		<data>
-		smltitzjY36jl6Iqmi1IVf0o6KQ=
+		8nRefc7/Ro/Gh1lyxFjYPg5qygU=
 		</data>
 		<key>Frameworks/youtube_player.framework/Info.plist</key>
 		<data>
@@ -246,7 +286,7 @@
 		</data>
 		<key>Frameworks/youtube_player.framework/youtube_player</key>
 		<data>
-		umIk6a7Dvnc/UNK1w1pe1IhJbvM=
+		lJzMeMGjHoHjJs7LPcujE0HSKU8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -593,11 +633,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HSH56IYdT9kqd23eN+xXgh6BhOY=
+			FL2NddmAVtnEcyTjmNfIL7RIrow=
 			</data>
 			<key>hash2</key>
 			<data>
-			oq6g6Bb2ZpxXd0dkTw4Y+3pLEl4JPMkiSkrXgIEHUvM=
+			ZSk5a//EqA8K0l7qZVUMJgl8gdsNKh6i6tehJ59IUak=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -615,22 +655,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6EliVuCEudUAVe3csuOw2Mu1cZs=
+			b2plVJWXk1F/LEs46oh4rByudfM=
 			</data>
 			<key>hash2</key>
 			<data>
-			B7X5ZE3HOyJKGWWnKNu2OkqSTEiUJvqAJqKRyVi9axk=
+			K+5lqF9RWjo8Qgyb0DLbqUYbLEH3jIevx51bXsRCYlA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+			WwW3RPqbM3HoZxBmtgAVOxTtka4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			FPJd907/3TCsclFSngYVgYxzoZgYV7MZMU1m7zwaWic=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -653,6 +693,116 @@
 			<key>hash2</key>
 			<data>
 			NrJvdf6kuONjMDzNugmMfC8v161dMQqYE7lcesaPQ08=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/CHINA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x7jio6GzTIQwzi4ZblgXVMzbrwM=
+			</data>
+			<key>hash2</key>
+			<data>
+			pBVnxueEBsZsxIc8QZleXL2+a0BRAudY9VCyX8cs2+o=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/INDIA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FAT4gY4Jiy/JIkTPortBqmB72P8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kq7vw0q8g6GnpXe0sdiNIdseSqPhKyFxBcWM7MNlKz0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/INDONESIA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yv3+UPjZoXrKpofGdLatx+1lecM=
+			</data>
+			<key>hash2</key>
+			<data>
+			GTd8fDf/Ez/Df16oQAv1jwSRD3nyLY7g0qJxuH6GzPY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/JAPAN_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OcrSj6WkOaEYcHWz9mQ6PoUyvas=
+			</data>
+			<key>hash2</key>
+			<data>
+			nz/RbM4NvkqEX7NM4UKPckS9cvvMoOr6tsQXhEnHwT4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/KOREA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Av2ceUOjLp6aqDEOfYXPE/Hphz4=
+			</data>
+			<key>hash2</key>
+			<data>
+			ppnAOXhrAHlf5n2rdYs36UFrJ+80YKxmb1arspWxnz0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/MALAYSIA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lkKC6iID6eNH0rLNkzYVPpxv9O0=
+			</data>
+			<key>hash2</key>
+			<data>
+			CtvzA49ObdwUNctPb8UuvsnPhg/o/JDR8+p/QgTNUeM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/THAILAND_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lAD/AbZgCyPvko8jP2It2wz1Ysk=
+			</data>
+			<key>hash2</key>
+			<data>
+			VzcFmVdGlwzzVWVCpPd9xna5kynKesHA4rgVcxaG2IM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/USA_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ndaz4uzqDE4VnrDZhUVRBuRYr8c=
+			</data>
+			<key>hash2</key>
+			<data>
+			uR2u3o+CaNMwsTVLvuZy5xeqqInMEfR5HXkYHFJUDwc=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/VIETNAM_flag.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GbI+Dk1ztNOws2LN1DU4x8FAXis=
+			</data>
+			<key>hash2</key>
+			<data>
+			hPAEGZnGw1zyBQbqIznp2Rzqwvr3cEEcyM3VGXkYneM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/loading.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YCb/2aZUtyApmCWK1VtbdJd0kr4=
+			</data>
+			<key>hash2</key>
+			<data>
+			+Zab4fS+TzFcn+vshwyLIs3rCpYDZIS5KTAEqvvh5Lg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
@@ -681,11 +831,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kodHWHzKQSylc7N4IYKi11x9h/8=
+			mdQLQ9SeNCi+jvp3EPeyvoJPJxU=
 			</data>
 			<key>hash2</key>
 			<data>
-			VuYeir8XUuCZCylyMb+O1aTbXMnFCRwUn/7HIMslqnQ=
+			95OKacl25uiUii/rrNMi85zsN7MiOYwqfRjkha3Wu2g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -857,11 +1007,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bAvpxuyzKQm9ASpbHzEQPbBSI+w=
+			EQ1FOdtw58t3VR4zmKMip8ZPikI=
 			</data>
 			<key>hash2</key>
 			<data>
-			X/ckpajkwb6T1Jsi4w7lzqrJ/gFT0UCV18uC83eOjV8=
+			64cBZ/69J7s8QhwAp9YX03T3v9LkJdZNh01uVhA+R2M=
 			</data>
 		</dict>
 		<key>Frameworks/youtube_api.framework/Info.plist</key>
@@ -890,11 +1040,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			smltitzjY36jl6Iqmi1IVf0o6KQ=
+			8nRefc7/Ro/Gh1lyxFjYPg5qygU=
 			</data>
 			<key>hash2</key>
 			<data>
-			FcYTtryxTC/L25OlQOBtCIY+t6Nj5604u30pi1nEcUo=
+			VZhminy9wj3z+4jSi/w87RSfzy19vdrVIhnS2wPRqgo=
 			</data>
 		</dict>
 		<key>Frameworks/youtube_player.framework/Info.plist</key>
@@ -923,11 +1073,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			umIk6a7Dvnc/UNK1w1pe1IhJbvM=
+			lJzMeMGjHoHjJs7LPcujE0HSKU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			gl0mvUl2zpeOfPDzmb3E+mRXEWkQ56lqH+mpf+QSkzY=
+			3KOje4BaLMuXv/b3RGTTkRYjK5Z09i7PaGFhdJv1mAk=
 			</data>
 		</dict>
 	</dict>

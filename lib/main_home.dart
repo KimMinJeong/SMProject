@@ -4,6 +4,7 @@ import 'package:smkpopprojectapp/src/utils/constants.dart';
 import 'package:smkpopprojectapp/src/ui/view/hot_view.dart';
 import 'package:smkpopprojectapp/src/ui/view/new_view.dart';
 import 'package:smkpopprojectapp/src/ui/view/app_view.dart';
+import 'package:smkpopprojectapp/src/ui/widget/langauge_widget.dart';
 
 class MainHome extends StatefulWidget {
   const MainHome({Key key}) : super(key: key);
@@ -12,14 +13,19 @@ class MainHome extends StatefulWidget {
   _MainHomeState createState() => new _MainHomeState();
 }
 
+
 int _currentIndex = 0;
 var _currentTabName = ['New', 'Hot', 'MY'];
 List<Widget> currentTab = [NewView(), HotView(), AppView()];
 
 class _MainHomeState extends State<MainHome> {
+
+  final _scaffoldKey = new GlobalKey<ScaffoldState>();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+        key: _scaffoldKey,
         appBar: _buildMatchAppbar(context),
         body: currentTab[_currentIndex],
         bottomNavigationBar: BottomNavigationBar(
@@ -47,6 +53,30 @@ class _MainHomeState extends State<MainHome> {
     );
   }
 
+
+  void _showLanguageModalSheet(){
+    showModalBottomSheet(context: context, builder: (builder){
+      return new Container(
+        height: 460,
+        color: Colors.grey[200],
+        child: new Center(
+          child: GridView.count(
+            primary: true,
+            scrollDirection: Axis.vertical, //스크롤 방향 조절
+            crossAxisCount: 3,
+            children: LanguageList(),
+          ),
+          /*itemCount: ytResult.length,
+              itemBuilder:(_, int index) => ListItem(index)*/
+        ),
+      );
+    });
+  }
+
+  void _showVotingSheet(){
+    print("votingsheet");
+  }
+
   //*********** Settings Start ***************//
   Settings _selectedSetting = settings[0];
 
@@ -54,9 +84,17 @@ class _MainHomeState extends State<MainHome> {
     // Causes the app to rebuild with the new _selectedSetting.
     setState(() {
       _selectedSetting = setting;
+
+      //언어선택
+      if(_selectedSetting.title  == "Language change"){
+        _showLanguageModalSheet();
+      }else if(_selectedSetting.title == "Voting"){
+        _showVotingSheet();
+      }
     });
   }
   //*********** Settings End ***************//
+
 
   Widget _buildMatchAppbar(context) {
     return PreferredSize(
