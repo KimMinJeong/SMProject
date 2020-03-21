@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:smkpopprojectapp/src/ui/widget/voting_widget.dart';
 
 import 'package:smkpopprojectapp/src/utils/constants.dart';
 import 'package:smkpopprojectapp/src/ui/view/hot_view.dart';
@@ -73,10 +74,6 @@ class _MainHomeState extends State<MainHome> {
     });
   }
 
-  void _showVotingSheet(){
-    print("votingsheet");
-  }
-
   //*********** Settings Start ***************//
   Settings _selectedSetting = settings[0];
 
@@ -89,7 +86,10 @@ class _MainHomeState extends State<MainHome> {
       if(_selectedSetting.title  == "Language change"){
         _showLanguageModalSheet();
       }else if(_selectedSetting.title == "Voting"){
-        _showVotingSheet();
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => Voting()),
+        );
       }
     });
   }
