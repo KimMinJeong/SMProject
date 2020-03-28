@@ -17,12 +17,13 @@ class Images {
 }
 
 class Settings {
-  const Settings({this.title});
+  const Settings({this.key, this.title});
+  final int key;
   final String title;
 }
 const List<Settings> settings = const <Settings>[
-  const Settings(title: 'Language change'),
-  const Settings(title: 'Voting'),
-  const Settings(title: 'Vote result'),
-  const Settings(title: 'Notification'),
+  const Settings(key: 1, title: 'Language change'),
+  const Settings(key: 2, title: 'Voting'),
+  const Settings(key: 3, title: 'Vote result'),
+  const Settings(key: 4, title: 'Notification'),
 ];

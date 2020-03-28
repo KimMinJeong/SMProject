@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:smkpopprojectapp/src/ui/widget/voting_widget.dart';
+import 'package:smkpopprojectapp/src/ui/widget/voting_result_widget.dart';
+import 'package:smkpopprojectapp/src/ui/widget/notification_widget.dart';
 
 import 'package:smkpopprojectapp/src/utils/constants.dart';
 import 'package:smkpopprojectapp/src/ui/view/hot_view.dart';
@@ -83,12 +85,22 @@ class _MainHomeState extends State<MainHome> {
       _selectedSetting = setting;
 
       //언어선택
-      if(_selectedSetting.title  == "Language change"){
+      if(_selectedSetting.key  == 1){
         _showLanguageModalSheet();
-      }else if(_selectedSetting.title == "Voting"){
+      }else if(_selectedSetting.key == 2){
         Navigator.push(
           context,
           MaterialPageRoute(builder: (context) => Voting()),
+        );
+      }else if(_selectedSetting.key == 3){
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => VotingResult()),
+        );
+      }else if(_selectedSetting.key == 4){
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => NotificationW()),
         );
       }
     });
